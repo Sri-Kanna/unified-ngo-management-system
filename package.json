@@ -1,0 +1,13 @@
+{
+  "name": "unms-monorepo",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev:server": "pnpm --filter server dev",
+    "dev:client": "pnpm --filter client dev",
+    "build:server": "pnpm --filter server build",
+    "build:client": "pnpm --filter client build",
+    "db:push": "pnpm --filter server db:push",
+    "db:seed": "pnpm --filter server db:seed"
+  }
+}

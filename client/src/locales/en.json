@@ -1,0 +1,162 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete",
+    "actions": "Actions",
+    "search": "Search...",
+    "status": "Status",
+    "loading": "Loading...",
+    "submit": "Submit",
+    "success": "Success",
+    "error": "Error",
+    "active": "Active",
+    "inactive": "Inactive",
+    "all": "All"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "beneficiaries": "Beneficiaries",
+    "donations": "Donations",
+    "donors": "Donors",
+    "inventory": "Inventory",
+    "volunteers": "Volunteers",
+    "events": "Events",
+    "reports": "Reports",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "login": {
+    "title": "Unified NGO Management System",
+    "subtitle": "Empowering NGOs Through Digital Transformation",
+    "cardTitle": "Sign In",
+    "email": "Email Address",
+    "password": "Password",
+    "showPassword": "Show password",
+    "rememberMe": "Remember Me",
+    "forgotPassword": "Forgot Password?",
+    "loginButton": "Log In",
+    "error": "Invalid email or password",
+    "validationEmail": "Please enter a valid email address"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "stats": {
+      "beneficiaries": "Beneficiaries Supported",
+      "donations": "Total Funds Raised",
+      "volunteers": "Active Volunteers",
+      "inventory": "Items in Inventory",
+      "events": "Upcoming Events"
+    },
+    "charts": {
+      "donationsTrend": "Donations Trend (Monthly)",
+      "resourceDistribution": "Resource Distribution (Inventory)",
+      "beneficiaryGrowth": "Beneficiary Growth",
+      "eventParticipation": "Event Participation Analysis"
+    },
+    "widgets": {
+      "recentActivity": "Recent System Activity",
+      "upcomingEvents": "Upcoming Scheduled Events",
+      "quickActions": "Quick Administrative Actions"
+    }
+  },
+  "beneficiary": {
+    "title": "Beneficiary Directory",
+    "add": "Add New Beneficiary",
+    "edit": "Edit Beneficiary",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "address": "Residential Address",
+    "dob": "Date of Birth",
+    "gender": "Gender",
+    "qrCode": "Beneficiary Digital ID (QR Code)",
+    "status": "Registration Status"
+  },
+  "donor": {
+    "title": "Donor Management",
+    "add": "Add New Donor",
+    "edit": "Edit Donor",
+    "name": "Donor Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "address": "Address",
+    "type": "Donor Classification",
+    "individual": "Individual",
+    "corporate": "Corporate"
+  },
+  "donation": {
+    "title": "Donation Records",
+    "add": "Record New Donation",
+    "edit": "Modify Donation Details",
+    "amount": "Contribution Amount (₹)",
+    "date": "Donation Date",
+    "type": "Donation Category",
+    "monetary": "Monetary (Cash/Online)",
+    "inkind": "In-kind (Resources/Goods)",
+    "description": "Donation Description / Allocation Notes",
+    "donor": "Select Donor"
+  },
+  "inventory": {
+    "title": "Inventory & Resources",
+    "add": "Add Inventory Item",
+    "edit": "Update Item Details",
+    "itemName": "Item Descriptor",
+    "category": "Item Category",
+    "quantity": "Available Stock Quantity",
+    "unit": "Unit of Measurement",
+    "barcode": "Stock Tracking Barcode",
+    "location": "Warehouse Location",
+    "status": "Inventory Status",
+    "instock": "In Stock",
+    "lowstock": "Low Stock Alert",
+    "outstock": "Out of Stock"
+  },
+  "volunteer": {
+    "title": "Volunteer Database",
+    "add": "Add Volunteer Profile",
+    "edit": "Edit Volunteer Details",
+    "name": "Volunteer Name",
+    "email": "Email Address",
+    "phone": "Contact Number",
+    "skills": "Key Skills / Areas of Expertise",
+    "availability": "Weekly Availability",
+    "status": "Volunteer Status"
+  },
+  "event": {
+    "title": "Events & Activities",
+    "add": "Schedule New Event",
+    "edit": "Update Event Details",
+    "eventTitle": "Event Heading",
+    "description": "Event Description",
+    "startTime": "Start Date & Time",
+    "endTime": "End Date & Time",
+    "location": "Venue Location",
+    "capacity": "Attendance Capacity",
+    "status": "Event Status",
+    "participants": "Manage Participants",
+    "register": "Register Participant",
+    "attendance": "Record Attendance"
+  },
+  "report": {
+    "title": "Reports Generator",
+    "generate": "Generate New Report",
+    "type": "Report Subject",
+    "createdAt": "Generation Date",
+    "download": "Download CSV",
+    "titleField": "Report Title Name"
+  },
+  "setting": {
+    "title": "System Settings",
+    "ngoDetails": "NGO Identity Profile",
+    "auditLogs": "Security Audit Trail Logs",
+    "ngoName": "Organization Name",
+    "contactEmail": "Administrative Email",
+    "contactPhone": "Office Phone",
+    "address": "Official Registered Address",
+    "taxExemption": "80G Tax Exemption Reg Number",
+    "saveSuccess": "Settings successfully saved"
+  }
+}

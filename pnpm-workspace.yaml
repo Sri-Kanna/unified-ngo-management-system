@@ -1,0 +1,7 @@
+packages:
+  - 'client'
+  - 'server'
+allowBuilds:
+  bcrypt: true
+  es5-ext: true
+  esbuild: true
